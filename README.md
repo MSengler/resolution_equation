@@ -6,3 +6,4 @@ La plupart ont été fait lors de mes études en cours de TAN, ou autres.
 - un résoloveur d'équation polynomiale du 3e degré
 - un résolveur d'équation avec les méthodes de Newton, Dichotomie, Lagrange
 - calcul d'intégrale avec les méthodes de rectangle, trapèze, et simpson
+- un multiplicateur de matrice avec quelques optimisation
