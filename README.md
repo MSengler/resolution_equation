@@ -1,4 +1,4 @@
-# resolution_equation
+# resolution_equation & calcul numérique
 Ce répertoire contient des fichiers python pour la résolution de'équation de différents type et de calcul mathématique.
 La plupart ont été fait lors de mes études en cours de TAN, ou autres.
 
