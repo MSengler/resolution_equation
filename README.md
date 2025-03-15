@@ -1,6 +1,6 @@
-# resolution_equation & calcul numérique
-Ce répertoire contient des fichiers python pour la résolution de'équation de différents type et de calcul mathématique.
-La plupart ont été fait lors de mes études en cours de TAN, ou autres.
+# Résolution_equation & calcul numérique
+Ce répertoire contient des fichiers python pour la résolution d'équation de différents types et de calcul mathématique.
+La plupart ont été fait lors de mes études.
 
 ## Liste des fichiers python:
 - un résoloveur d'[équation polynomiale du 3e degré](equadu3edegres.py)
